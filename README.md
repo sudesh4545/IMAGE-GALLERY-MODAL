@@ -1,2 +1,4 @@
-# mini-image-gallery-modal-mini-1
-Mini project: Image Gallery Modal
+# PrismVault
+
+Responsive gallery of twelve original CSS artworks with category filters, persistent favourites, keyboard navigation and an accessible closeable modal.
+
